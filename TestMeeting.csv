@@ -1,0 +1,3 @@
+"Key","Name","Status","Precondition","Objective","Folder","Priority","Component","Labels","Owner","Estimated Time","Coverage (Issues)","Coverage (Pages)","Test Script (Step-by-Step) - Step","Test Script (Step-by-Step) - Test Data","Test Script (Step-by-Step) - Expected Result","Test Script (Plain Text)","Test Script (BDD)"
+"T-1","Access to Accounts page","Automated","Be logged in","User should have access to Account page from Homepage","/Website/Account","Normal","","Accounts","","","EL-1420","","Access the webiste","test.com","Website is displayed
+Account button is displayed","",""
